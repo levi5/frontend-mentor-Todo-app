@@ -1,30 +1,67 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h1 align="center">Frontend Mentor - Todo app</h1>
 
-## Getting Started
+<div align="center">
+  <h3>
+    <a href="https://github.com/levi5/frontend-mentor-Todo-app">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://www.frontendmentor.io/challenges/todo-app-Su1_KokOW">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-First, run the development server:
+<!-- TABLE OF CONTENTS -->
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Table of Contents
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Built With](#built-with)
+  - [Run](#run)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+<!-- OVERVIEW -->
 
-## Learn More
+## Overview
 
-To learn more about Next.js, take a look at the following resources:
+<div style="display:flex; flex-direction:row; gap:5px; width:100%; min-width:500px; flex-wrap: wrap; height:auto;">
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+  <img src="./.github/assets/design/desktop-preview.jpg"/>
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+</div>
 
-## Deploy on Vercel
+### The challenge
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Your challenge is to build out this todo app and get it looking as close to the design as possible. You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Your users should be able to:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- View the optimal layout for the app depending on their device's screen size
+- See hover states for all interactive elements on the page
+- Add new todos to the list
+- Mark todos as complete
+- Delete todos from the list
+- Filter by all/active/complete todos
+- Clear all completed todos
+- Toggle light and dark mode
+
+### Built With
+
+- [React](https://reactjs.org/)
+- [Next js](https://nextjs.org/)
+
+### Run
+
+ > *npm run build*
+ > *npm run start*
+
+## Acknowledgements
+
+- [Node.js](https://nodejs.org/)
+
+## Contact
+
+- GitHub [levi5](https://github.com/levi5)

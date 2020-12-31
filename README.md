@@ -56,6 +56,7 @@ Your users should be able to:
 ### Run
 
  > *npm run build*
+ 
  > *npm run start*
 
 ## Acknowledgements

@@ -8,13 +8,8 @@ import { light, dark } from '../../config/theme';
 import styles from './styles';
 
 const Content: any = () => {
-	const {
-		theme,
-		todoList,
-		updateTodo,
-		removeTodo,
-		clearCompleted
-	} = useContext(ContextTodo);
+	const { theme, todoList, updateTodo, removeTodo, clearCompleted } =
+		useContext(ContextTodo);
 
 	const [themeName, selectTheme] = useState(theme);
 	const [todo, setTodo] = useState(todoList);
